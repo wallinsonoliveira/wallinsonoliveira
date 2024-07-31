@@ -1,5 +1,6 @@
 #### 👨‍💻 Languages
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue?style=social&logo=python&logoColor=blue&logoSize=10&color=191970)
+![Static Badge](https://img.shields.io/badge/R-blue?style=social&logo=r&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/SQL-blue?style=social&logo=SQLITE&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=social&logo=PHP&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/C-blue?style=social&logo=C&logoColor=blue&logoSize=10&color=191970)

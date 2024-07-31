@@ -8,6 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-blue?style=social&logo=html5&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=social&logo=css3&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/DELPHI-blue?style=social&logo=delphi&logoColor=blue&logoSize=10&color=191970)
+![Static Badge](https://img.shields.io/badge/PASCAL-blue?style=social&logo=turbo&logoColor=blue&logoSize=10&color=191970)
 
 #### 📚 Frameworks and Libraries
 ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-blue?style=social&logo=bootstrap&logoColor=blue&logoSize=10&color=191970)

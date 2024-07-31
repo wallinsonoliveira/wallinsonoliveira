@@ -32,6 +32,15 @@
 
 #### Available Projects
 
-- 🎮 [Numove](http://numove.vercel.app/) - A website that calculates how many seconds you've spent with your mouse idle (2024).
+![Static Badge](https://img.shields.io/badge/Under%20construction-8A2BE2?logoSize=10)
 
-<!-- tste-->
+<!--- 🎮 [Numove](http://numove.vercel.app/) - A website that calculates how many seconds you've spent with your mouse idle (2024).
+-->
+
+#### About me
+- 👋 Hi, I'm @wallinsonschutte.
+- 🌱 I currently delving into Python development and Artificial Intelligence.
+- 🌎 I would like to share my knowledge with the community.
+- 📫 Contact e-mail: peeweesuper@gmail.com.
+- 🌐 Website: https://www.doutorpw.com.br.
+- 🦸 Linkedin: https://www.linkedin.com/in/wallinson-oliveira-schutte.

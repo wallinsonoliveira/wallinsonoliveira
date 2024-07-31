@@ -32,10 +32,10 @@
 
 #### Available Projects
 
+📊 [Plataforma Analisa UFVJM](https://portal.ufvjm.edu.br/page/analisa/paineis) - The Analisa UFVJM Platform was developed to support managers in decision-making through reliable and standardized evidence, as well as providing society with transparent indicators on the actions carried out at the university (2022). With this Platform we were finalists in the 1st Good Practices Competition - an initiative by the Ministry of Education (MEC) to promote and highlight good conduct produced in the federal management of educational bodies. [Link](https://portal.ufvjm.edu.br/noticias/2023/ufvjm-e-finalista-no-i-concurso-de-boas-praticas-do-mec) (2023).
+
 ![Static Badge](https://img.shields.io/badge/Under%20construction-8A2BE2?logoSize=10)
 
-<!--- 🎮 [Numove](http://numove.vercel.app/) - A website that calculates how many seconds you've spent with your mouse idle (2024).
--->
 
 #### About me
 - 👋 Hi, I'm @wallinsonschutte.

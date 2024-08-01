@@ -61,3 +61,4 @@ PW Clean, E-books
 - 📫 Contact e-mail: peeweesuper@gmail.com.
 - 🌐 Website: https://www.doutorpw.com.br.
 - 🦸 Linkedin: https://www.linkedin.com/in/wallinson-oliveira-schutte.
+- 👨‍🎓 Lattes: http://lattes.cnpq.br/1139072759866990

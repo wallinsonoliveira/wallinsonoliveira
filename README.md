@@ -33,7 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/SQLSERVER-blue?style=social&logo=DATABRICKS&logoColor=blue&logoSize=10&color=191970)
 
 #### 🛠️ Tools, Platforms and Operational Systems
-![Static Badge](https://img.shields.io/badge/POWER%20BI-8A2BE2?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/POWER%20BI-9400D3?style=for-the-badge&logoSize=10)
 ![Static Badge](https://img.shields.io/badge/WINDOWS-green?style=for-the-badge&logoColor=green&logoSize=10&color=23009639)
 ![Static Badge](https://img.shields.io/badge/LINUX-green?style=for-the-badge&logoColor=green&logoSize=10&color=1E90FF)
 ![Static Badge](https://img.shields.io/badge/OFFICE-green?style=for-the-badge&logoColor=green&logoSize=10&color=B8860B)

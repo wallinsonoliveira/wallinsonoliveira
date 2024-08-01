@@ -1,4 +1,4 @@
-<!--<img align="right" alt="Logo Wallinson" height="380" src="">-->
+<img align="right" alt="Logo Wallinson" height="380" src="https://www.doutorpw.com.br/assets/img/git/git4.jpg">
    
 <h1>
     <a href="https://www.doutorpw.com.br/">

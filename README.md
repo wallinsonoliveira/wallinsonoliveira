@@ -4,7 +4,7 @@
        <span>&nbsp;Wallinson Oliveira Schutte</span>
 </h1>
 
-<img align="right" alt="Logo Wallinson" height="380" src="https://www.doutorpw.com.br/assets/img/git/git4.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://www.doutorpw.com.br/assets/img/git/git4.jpg">
 
 #### 👨‍💻 Languages
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue?style=social&logo=python&logoColor=blue&logoSize=10&color=191970)

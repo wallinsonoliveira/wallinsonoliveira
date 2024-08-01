@@ -39,7 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/OFFICE-green?style=for-the-badge&logoColor=green&logoSize=10&color=B8860B)
 ![Static Badge](https://img.shields.io/badge/SPSS-green?style=for-the-badge&logoColor=YELLOW&logoSize=10&color=ADFF2F)
 
-
+---
 #### Available Projects
 
 📊 [Plataforma Analisa UFVJM](https://portal.ufvjm.edu.br/page/analisa/paineis) - ***(Power Bi, M, Dax e Python)*** - The Analisa UFVJM Platform was developed to support managers in decision-making through reliable and standardized evidence, as well as providing society with transparent indicators on the actions carried out at the university (2022). With this Platform we were finalists in the 1st Good Practices Competition - an initiative by the Ministry of Education (MEC) to promote and highlight good conduct produced in the federal management of educational bodies. [Link](https://portal.ufvjm.edu.br/noticias/2023/ufvjm-e-finalista-no-i-concurso-de-boas-praticas-do-mec) (2023).

@@ -51,6 +51,11 @@
 📰 [Dissertation](http://acervo.ufvjm.edu.br/jspui/bitstream/1/1696/1/wallinson_oliveira_schutte.pdf) - ***(PHP, R, Python, NayveBayes, Statistic, Artificial Neural Networks)*** - DETECTION OF CARDIAC ISCHEMIA IN DIFFERENT LEADERS USING ARTIFICIAL NEURAL NETWORKS AND A HYBRID GAUSSIAN AND BAYESIAN CLASSIFICATOR. Dissertation presented to the Post Program degree in Techonolgy, Envirommen and Society - Strict Sensu, level of MASTERS degree as part of the requirements for obtaining the title of MAGISTER SCIENTIAE in
 TECHNOLOGY, ENVIRONMENT AND SOCIETY. (2017)
 
+☣️ [PW Clean Antivírus Software](https://www.doutorpw.com.br/subdominios/pwclean/) - ***(Bordland Delphi and Pascal)*** - PW Clean is an antivirus with 9 years on the market. Among its functions are the removal of most viruses that create shortcuts and hide folders on your device (Pen Drives, External HDs, Memory Cards, etc.) (2015 &rarr; Hoje).
+
+
+👨‍💻
+
 PW Clean, E-books
 
 <!--

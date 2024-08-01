@@ -11,6 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/R-blue?style=social&logo=r&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/SQL-blue?style=social&logo=SQLITE&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=social&logo=PHP&logoColor=blue&logoSize=10&color=191970)
+![Static Badge](https://img.shields.io/badge/GNU/BASH-blue?style=social&logo=GNUBASH&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/C-blue?style=social&logo=C&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/C++-blue?style=social&logo=c%2B%2B&logoColor=blue&logoSize=10&color=191970)
 ![Static Badge](https://img.shields.io/badge/HTML5-blue?style=social&logo=html5&logoColor=blue&logoSize=10&color=191970)
@@ -35,15 +36,20 @@
 #### 🛠️ Tools, Platforms and Operational Systems
 ![Static Badge](https://img.shields.io/badge/POWER%20BI-9400D3?style=for-the-badge&logoSize=10)
 ![Static Badge](https://img.shields.io/badge/WINDOWS-green?style=for-the-badge&logoColor=green&logoSize=10&color=23009639)
-![Static Badge](https://img.shields.io/badge/LINUX-green?style=for-the-badge&logoColor=green&logoSize=10&color=1E90FF)
+![Static Badge](https://img.shields.io/badge/GNU/LINUX-green?style=for-the-badge&logoColor=green&logoSize=10&color=1E90FF)
 ![Static Badge](https://img.shields.io/badge/OFFICE-green?style=for-the-badge&logoColor=green&logoSize=10&color=B8860B)
 ![Static Badge](https://img.shields.io/badge/GOOGLE_APPS|SHEETS|DOCS-blue?style=for-the-badge&logoColor=blue&logoSize=10&color=0000FF)
 ![Static Badge](https://img.shields.io/badge/SPSS-green?style=for-the-badge&logoColor=YELLOW&logoSize=10&color=ADFF2F)
+![Static Badge](https://img.shields.io/badge/AIX_SISTEMAS-green?style=for-the-badge&logoColor=YELLOW&logoSize=10&color=008000)
+![Static Badge](https://img.shields.io/badge/SQL_SERVER-green?style=for-the-badge&logoColor=YELLOW&logoSize=10&color=A0522D)
 
 ---
 #### Available Projects
 
 📊 [Plataforma Analisa UFVJM](https://portal.ufvjm.edu.br/page/analisa/paineis) - ***(Power Bi, M, Dax and Python)*** - The Analisa UFVJM Platform was developed to support managers in decision-making through reliable and standardized evidence, as well as providing society with transparent indicators on the actions carried out at the university (2022). With this Platform we were finalists in the 1st Good Practices Competition - an initiative by the Ministry of Education (MEC) to promote and highlight good conduct produced in the federal management of educational bodies. [Link](https://portal.ufvjm.edu.br/noticias/2023/ufvjm-e-finalista-no-i-concurso-de-boas-praticas-do-mec) (2023).
+
+📰 [Dissertation](http://acervo.ufvjm.edu.br/jspui/bitstream/1/1696/1/wallinson_oliveira_schutte.pdf) - ***(PHP, R, Python, NayveBayes, Statistic, Artificial Neural Networks)*** - DETECTION OF CARDIAC ISCHEMIA IN DIFFERENT LEADERS USING ARTIFICIAL NEURAL NETWORKS AND A HYBRID GAUSSIAN AND BAYESIAN CLASSIFICATOR. Dissertation presented to the Post Program degree in Techonolgy, Envirommen and Society - Strict Sensu, level of MASTERS degree as part of the requirements for obtaining the title of MAGISTER SCIENTIAE in
+TECHNOLOGY, ENVIRONMENT AND SOCIETY. (2017)
 
 PW Clean, E-books
 

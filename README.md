@@ -35,7 +35,7 @@
 
 #### 🛠️ Tools, Platforms and Operational Systems
 ![Static Badge](https://img.shields.io/badge/POWER%20BI-9400D3?style=for-the-badge&logoSize=10)
-![Static Badge](https://img.shields.io/badge/WINDOWS-green?style=for-the-badge&logoColor=green&logoSize=10&color=23009639)
+![Static Badge](https://img.shields.io/badge/WINDOWS_SERVER-green?style=for-the-badge&logoColor=green&logoSize=10&color=23009639)
 ![Static Badge](https://img.shields.io/badge/GNU/LINUX-green?style=for-the-badge&logoColor=green&logoSize=10&color=1E90FF)
 ![Static Badge](https://img.shields.io/badge/OFFICE-green?style=for-the-badge&logoColor=green&logoSize=10&color=B8860B)
 ![Static Badge](https://img.shields.io/badge/GOOGLE_APPS|SHEETS|DOCS-blue?style=for-the-badge&logoColor=blue&logoSize=10&color=0000FF)
@@ -46,9 +46,9 @@
 ---
 #### Available Projects
 
-📊 [Plataforma Analisa UFVJM](https://portal.ufvjm.edu.br/page/analisa/paineis) - ***(Power Bi, M, Dax and Python)*** - A Plataforma Analisa UFVJM foi desenvolvida para dar suporte aos gestores na tomada de decisão por meio de evidências confiáveis e padronizadas, bem como disponibilizar para a sociedade indicadores transparentes sobre as ações realizadas na universidade (2022). Com essa Plataforma fomos finalistas no I Concurso de Boas Práticas - uma iniciativa do Ministério da Educação (MEC) para promover e evidenciar as boas condutas produzidas na gestão federal dos órgãos educacionais - [Link](https://portal.ufvjm.edu.br/noticias/2023/ufvjm-e-finalista-no-i-concurso-de-boas-praticas-do-mec) (2023).
+📊 [Plataforma Analisa UFVJM](https://portal.ufvjm.edu.br/page/analisa/paineis) - ***(Power Bi, M, Dax e Python)*** - A Plataforma Analisa UFVJM foi desenvolvida para dar suporte aos gestores na tomada de decisão por meio de evidências confiáveis e padronizadas, bem como disponibilizar para a sociedade indicadores transparentes sobre as ações realizadas na universidade (2022). Com essa Plataforma fomos finalistas no I Concurso de Boas Práticas - uma iniciativa do Ministério da Educação (MEC) para promover e evidenciar as boas condutas produzidas na gestão federal dos órgãos educacionais - [Link](https://portal.ufvjm.edu.br/noticias/2023/ufvjm-e-finalista-no-i-concurso-de-boas-praticas-do-mec) (2023).
 
-📰 [Dissertação](http://acervo.ufvjm.edu.br/jspui/bitstream/1/1696/1/wallinson_oliveira_schutte.pdf) - ***(PHP, R, Python, NayveBayes, Statistic, Artificial Neural Networks)*** - DETECÇÃO DE ISQUEMIA CARDÍACA EM DIFERENTES DERIVAÇÕES UTILIZANDO REDES NEURAIS ARTIFICIAIS E UM CLASSIFICADOR HÍBRIDO GAUSSIANO E BAYESIANO. Dissertação apresentada ao PROGRAMA DE PÓS-GRADUAÇÃO EM TECNOLOGIA, AMBIENTE E SOCIEDADE – STRICTO SENSU, nível de MESTRADO como parte dos requisitos para obtenção do título de MAGISTER SCIENTIAE EM TECNOLOGIA, AMBIENTE E SOCIEDADE. (2017)
+📰 [Dissertação](http://acervo.ufvjm.edu.br/jspui/bitstream/1/1696/1/wallinson_oliveira_schutte.pdf) - ***(PHP, R, Python, NayveBayes, Statistic e Artificial Neural Networks)*** - DETECÇÃO DE ISQUEMIA CARDÍACA EM DIFERENTES DERIVAÇÕES UTILIZANDO REDES NEURAIS ARTIFICIAIS E UM CLASSIFICADOR HÍBRIDO GAUSSIANO E BAYESIANO. Dissertação apresentada ao PROGRAMA DE PÓS-GRADUAÇÃO EM TECNOLOGIA, AMBIENTE E SOCIEDADE – STRICTO SENSU, nível de MESTRADO como parte dos requisitos para obtenção do título de MAGISTER SCIENTIAE EM TECNOLOGIA, AMBIENTE E SOCIEDADE. (2017)
 
 ☣️ [Software Antivírus PW Clean](https://www.doutorpw.com.br/subdominios/pwclean/) - ***(Bordland Delphi e Pascal)*** - O PW Clean é um antivírus com mais de 9 anos de mercado. Dentre suas funções estão a remoção da maioria dos Vírus que criam atalhos e ocultam as pastas do seu dispositivo (Pen Drives, HD Externos, Cartões de Memória, etc.). (2015 &rarr; Hoje).
 

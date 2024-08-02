@@ -54,29 +54,16 @@
 
 📖 [E-Book](https://www.doutorpw.com.br/subdominios/manualcompleto/) - ***(Canva e Word)*** - Manual Completo - Como Manter seu PC Livre de Malwares. Com mais de 25 anos de experiência nessa área, reuni todo meu conhecimento e experiência para criação desse Livro. Com ele, aprenderá tudo que precisa saber sobre Vírus e Malwares de Computador (2020).
 
-📖 [E-Book](https://www.doutorpw.com.br/subdominios/historiacompleta/) - ***(Canva e Word)*** - História Completa - Vírus de Computador. Com ele, saberá como se originou o que hoje se tornou o Vírus de Computador moderno. Trata-se de um conteúdo imprescindível para quem utiliza Computadores, Notebooks, Celulares, entre outros (2021).
+🕮 [E-Book](https://www.doutorpw.com.br/subdominios/historiacompleta/) - ***(Canva e Word)*** - História Completa - Vírus de Computador. Com ele, saberá como se originou o que hoje se tornou o Vírus de Computador moderno. Trata-se de um conteúdo imprescindível para quem utiliza Computadores, Notebooks, Celulares, entre outros (2021).
 
 ❓[E-Book](https://www.doutorpw.com.br/subdominios/quiz/) - ***(Canva e Word)*** - Quiz do Doutor. Criei esse Quiz com o objetivo de compartilhar o conhecimento de forma simples e divertida. Aqui você aprende brincando. (2021).
 
-✔️ 
-
-🕮
-📚
-📘
-📜
-📗
-👨‍💻
-📓
-
-PW Clean, E-books
-
 <!--
 ![Static Badge](https://img.shields.io/badge/Under%20construction-8A2BE2?logoSize=10)
--->
+
 > [!NOTE]
 > Under construction
-
-
+-->
 #### About me
 - 👋 Hi, I'm @wallinsonschutte.
 - 🌱 I currently delving into Python development and Artificial Intelligence.
